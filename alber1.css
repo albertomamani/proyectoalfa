@@ -1,0 +1,61 @@
+
+#encabezado{
+    background-image: url("imagenes/tierra-quemada1.jpg");
+    background-repeat: no-repeat;
+    width: 54%;
+    padding: 3%;
+    margin-left: 20%;
+    background-size: 100% 100%;
+    font-family: fantasy;
+    float: left;
+    text-align: center;
+
+/*
+    padding: 3% 3%;
+    padding: 3% 3% 3% 3%;
+    padding-to: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+*/
+    
+    border: 10px solid black;
+}
+#desarrollo{
+    background: orange;
+    font-family: fantasy;
+    width: 45%;
+    padding: 1%;
+    margin: 1%;
+    float: left;
+    border-radius: 25px;
+}
+#sinopsis{
+    background: blue;
+    width: 45%;
+    padding: 1%;
+    margin: 1%;
+    float: right;
+    font-family: fantasy;
+    border-radius: 25px;
+}
+body{
+    background: aqua;
+} 
+#formulario{
+    background: blue;
+    width: 45%;
+    padding: 1%;
+    margin: 1%;
+    float: left;
+    font-family: fantasy;
+    border-radius: 25px;
+    
+}
+
+#video{
+    float: left;
+    width: 100%;
+}
+    
+
